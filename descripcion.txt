@@ -1,2 +1,5 @@
+Descripción
+
 Este trabajo pertenece a la materia de programacion orientada a objetos 2
-de la carrera ingenieria en desarrollo de  software del tercer semestre
+de la unidad uno; de la carrera ingenieria en desarrollo de  software 
+del tercer semestre en la Universidad abierta y a distancia de México
