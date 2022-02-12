@@ -1,2 +1,2 @@
 Este trabajo pertenece a la materia de programacion orientada a objetos 2
-de la carrera ingenieria en desarrollo de  software 
+de la carrera ingenieria en desarrollo de  software del tercer semestre
